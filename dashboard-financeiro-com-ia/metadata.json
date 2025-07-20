@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Financeiro com IA",
+  "description": "Um dashboard moderno para analisar suas finanças pessoais. Anexe um CSV do seu extrato bancário para categorizar despesas, visualizar insights e definir metas com a ajuda da IA do Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
